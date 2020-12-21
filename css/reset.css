@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 웹폰트 */
+
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body { font-family: 'Nanum Gothic'; background:url(../images/s_images/body_bg.png); line-height:1}
+* { margin:0; padding:0; list-style:none; box-sizing:border-box}
+a { text-decoration:none; color:#444}
+img { border:0; vertical-align:top}
+table { border-collapse:collapse; border-spacing:0}
+hr { display:block; height:2px; border:0}
+.hide{display: none;}
+
+input, textarea { width:100%; border:0; border-bottom:1px solid #777; color:#3f51b5; font-size:12px; vertical-align:top; border-radius:0; box-sizing:content-box; appearance:none}
+
+
+
+
